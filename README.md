@@ -4,7 +4,7 @@
 
   into a folder on your local drive, say C:\Users\yourname\Documents\R\
 
-* Put run_analysis.R to  C:\Users\yourname\Documents\R\UCI HAR Dataset\
+* Shift run_analysis.R to  C:\Users\yourname\Documents\R\UCI HAR Dataset\
 
 * in RStudio: setwd("C:\\\\Users\\\\yourname\\\\Documents\\\\R\\\\UCI HAR Dataset\\\\")
 
